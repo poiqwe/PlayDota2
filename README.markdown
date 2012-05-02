@@ -1,3 +1,3 @@
 ### PlayDota2
 Userscript: playdota2.user.js  
-BookmarkletL playdota2.bookmarklet.js
+Bookmarklet: playdota2.bookmarklet.js
